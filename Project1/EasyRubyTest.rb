@@ -1,3 +1,3 @@
-puts "Hello World"
+puts "Enter Name"
 name = gets
-puts "Hi, #name"
+puts "Hello, #name"
